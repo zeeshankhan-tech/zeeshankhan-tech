@@ -1,5 +1,5 @@
 # 💫 About Me:
-**🔭 I’m currently working on:** <br>data processing, conducting exploratory data analysis (EDA), and building predictive models.<br><br>👯**I’m looking to collaborate on:** <br>Data science projects, machine learning, and analytics workflows. <br><br>🌱 **I’m currently learning:**<br> Advanced SQL, machine learning algorithms, and cloud-based data platforms.<br><br> **💬 Ask me about:**<br> Python (Pandas, NumPy), SQL, data visualization, machine learning, and data science techniques.<br><br> **✉️ Contact me:** <br> zeeshankhan.techze@gmail.com<br><br>
+**🔭 I’m currently working on:** <br>data processing, conducting exploratory data analysis (EDA), and building predictive models.<br><br>👯**I’m looking to collaborate on:** <br>Data science projects, machine learning, and analytics workflows. <br><br>🌱 **I’m currently learning:**<br>Model optimization, feature engineering, and deployment of machine learning models using cloud platforms <br><br> **💬 Ask me about:**<br> Python (Pandas, NumPy), SQL, data visualization, machine learning, and data science techniques.<br><br> **✉️ Contact me:** <br> zeeshankhan.techze@gmail.com<br><br>
 
 
 ## 🌐 Socials:
