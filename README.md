@@ -1,5 +1,7 @@
 # 💫 About Me:
 A **Data Scientist** and **Machine Learning Engineer** specializing in the full ML lifecycle—from complex data analysis to scalable cloud deployment. Highly proficient in **Python**, leveraging advanced frameworks like **PyTorch, TensorFlow, Scikit-learn,** and **XGBoost**.
+
+
 **🔭 I’m currently working on:** <br>I work across the full ML and AI pipeline — handling data ingestion and preprocessing, performing exploratory analysis, engineering robust feature pipelines, and building predictive and AI-driven models designed for real-world performance and scalability.<br><br>👯**I’m looking to collaborate on:** <br>Machine learning and AI projects — including exploratory analysis, feature engineering, model development, optimization, and building intelligent systems that deliver real-world impact. <br><br>🌱 **I’m currently learning:**<br>Advanced model optimization, refined feature engineering, and deploying ML/AI models on cloud platforms — along with hands-on experience in generative AI workflows, LLM orchestration with Ollama, AGNO, and n8n, plus emerging XAI techniques for building transparent and trustworthy AI systems.<br><br> **💬 Ask me about:**<br> Python (Pandas, NumPy), FastApi, Docker, SQL, XGBoost, Scikit-learn, Pytorch, AWS ECR, AWS EC2, TensorFlow, data visualization, machine learning, MLOps,  and data science techniques.<br><br> **✉️ Contact me:** <br> zeeshankhan.techze@gmail.com<br><br>
 
 
