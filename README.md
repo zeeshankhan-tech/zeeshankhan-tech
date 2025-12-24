@@ -1,5 +1,5 @@
 # 💫 About Me:
-A **AI Engineer** specializing in the end-to-end AI lifecycle—from model development and optimization to scalable inference and cloud deployment. Highly proficient in **Python**, leveraging advanced frameworks like **PyTorch, Scikit-learn,** and **XGBoost** to build production-grade AI systems.
+An **AI Engineer** focused on building and deploying production AI systems, from model development to scalable inference pipelines and cloud deployment. Experienced in serving models as **APIs**, optimizing inference performance, and integrating AI into real-world applications using **Python**, **FastAPI**, **Docker**, and cloud platforms. Systems-first, with hands-on experience using **PyTorch**, **Scikit-learn**, and **XGBoost**.
 
 
 **🔭 I’m currently working on:** <br> 
