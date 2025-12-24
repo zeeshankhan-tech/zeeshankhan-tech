@@ -3,7 +3,7 @@ A **AI Engineer** specializing in the end-to-end AI lifecycle—from model devel
 
 
 **🔭 I’m currently working on:** <br> 
-I work across the full AI pipeline — building and evaluating models, setting up inference workflows, and deploying AI systems that are reliable, scalable, and ready for real-world use.
+Full AI pipeline — building and evaluating models, setting up inference workflows, and deploying AI systems that are reliable, scalable, and ready for real-world use.
 
 <br><br>👯**I’m looking to collaborate on:** <br>
 AI and machine learning projects where the focus is on building real systems — from model development and optimization to inference workflows, deployment, and production-ready AI applications.
