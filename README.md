@@ -1,17 +1,39 @@
 # 💫 About Me:
-A Full-Stack Developer with 4+ years of experience building and maintaining production-grade web applications. I specialize in designing scalable backend services, integrating APIs, and delivering clean, reliable user-facing features.
 
-I’m comfortable working across the entire stack — **from React-based frontends** to **Node.js** and **Python backends**, relational databases, and cloud deployment. I focus on **writing maintainable code, designing clear system boundaries, and shipping features that actually work in production**.
+I’m an **AI Engineer** focused on building **production-ready AI systems**.
+
+I design and deploy AI as **real software** — models served as APIs, scalable inference pipelines, containerized services, and cloud-hosted deployments. My background in software engineering helps me treat models as system components, not isolated artifacts.
+
+I work across the full AI lifecycle: model development → inference optimization → deployment → monitoring. I care about **latency, reliability, scalability, and maintainability** just as much as accuracy.
+
+Tech I work with regularly: **Python**, **FastAPI**, **Docker**, **AWS (EC2, ECR)**, **PyTorch**, **Scikit-learn**, **XGBoost**, SQL/PostgreSQL, and modern AI tooling for **LLM inference and orchestration**.
+
+---
 
 
 **🔭 I’m currently working on:** <br> 
-Building and improving end-to-end web applications — developing backend APIs, integrating databases, optimizing application performance, and deploying services using containerized workflows and cloud infrastructure.
+- Designing **end-to-end AI systems** with clean inference architectures  
+- Deploying **LLM-powered services** using local and cloud-based inference  
+- Building APIs that turn trained models into **usable, production AI features**  
+- Improving inference performance, system reliability, and deployment workflows  
+
 
 <br><br>👯**I’m looking to collaborate on:** <br>
-I’m interested in collaborating on real-world full-stack projects involving backend API development, system design, scalable web applications, database-driven systems, and cloud-deployed services. I value engineering quality, reliability, and maintainability, and I enjoy working on products that are built for long-term use, growth, and real-world impact.
-
+Projects where AI is treated as **engineering**, not theory:
+- Production AI services & inference pipelines  
+- LLM-based applications and orchestration workflows  
+- Scalable AI APIs and system design  
+- Practical AI deployment and monitoring setups
+- 
 <br><br> **💬 Ask me about:** <br> 
-Backend development with Node.js and Python, REST API design and integration, FastAPI and backend service architecture, React for frontend development, SQL and data modeling, Docker for local and production environments, Git and GitHub for collaborative development, and AWS for application deployment (EC2, ECR, S3).
+- AI system design & inference pipelines  
+- LLM inference, orchestration, and integration  
+- Python for AI engineering  
+- FastAPI for model serving  
+- Dockerized AI services  
+- AWS deployment for AI workloads  
+- XAI and model explainability in real systems  
+- Practical MLOps (without buzzwords)
 
 <br><br> **✉️ Contact me:** <br> 
 zeeshankhan.techze@gmail.com<br><br>
@@ -26,6 +48,16 @@ zeeshankhan.techze@gmail.com<br><br>
 # 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Generative AI](https://img.shields.io/badge/Generative_AI-008080?style=for-the-badge&logo=ai&logoColor=white)  
+![Data Pipeline](https://img.shields.io/badge/Data_Pipeline-FF9900?style=for-the-badge&logo=apache-airflow&logoColor=white)  
+![MLOps](https://img.shields.io/badge/MLOps-1E90FF?style=for-the-badge&logo=mlflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge&logo=openai&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF9900?style=for-the-badge&logo=xgboost&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -37,7 +69,6 @@ zeeshankhan.techze@gmail.com<br><br>
 ![AWS ECR](https://img.shields.io/badge/AWS_ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
