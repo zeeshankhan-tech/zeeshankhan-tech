@@ -10,13 +10,11 @@ Tech I work with regularly: **Python**, **FastAPI**, **Docker**, **AWS (EC2, ECR
 
 ---
 
-
 **🔭 I’m currently working on:** <br> 
 - Designing **end-to-end AI systems** with clean inference architectures  
 - Deploying **LLM-powered services** using local and cloud-based inference  
 - Building APIs that turn trained models into **usable, production AI features**  
 - Improving inference performance, system reliability, and deployment workflows  
-
 
 <br><br>👯**I’m looking to collaborate on:** <br>
 Projects where AI is treated as **engineering**, not theory:
@@ -24,7 +22,7 @@ Projects where AI is treated as **engineering**, not theory:
 - LLM-based applications and orchestration workflows  
 - Scalable AI APIs and system design  
 - Practical AI deployment and monitoring setups
-- 
+
 <br><br> **💬 Ask me about:** <br> 
 - AI system design & inference pipelines  
 - LLM inference, orchestration, and integration  
