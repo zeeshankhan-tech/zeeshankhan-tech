@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm a **Software Engineer** with 4+ years of experience building **scalable full-stack and backend systems**.
+I'm a **Software Engineer** with 5+ years of experience building **scalable full-stack and backend systems**.
 
 I design and ship production-ready applications — REST APIs, authentication systems, 
 real-time dashboards, and data-driven platforms — with a strong focus on **performance, 
