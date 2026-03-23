@@ -1,13 +1,7 @@
 # 💫 About Me
-I'm a **Software Engineer** with 5+ years of experience building **scalable full-stack and backend systems**.
-I design and ship production-ready applications — REST APIs, authentication systems,
-real-time dashboards, and data-driven platforms — with a strong focus on **performance,
-reliability, and scalable architecture**.
-My experience spans diverse industries **fintech**, **manufacturing SaaS**, and **ed-tech**,
-working across the full stack from React UIs to backend services and cloud deployments.
-Tech I work with regularly: **JavaScript**, **TypeScript**, **Python**, **Node.js**,
-**FastAPI**, **React.js**, **Next.js**, **PostgreSQL**, **MongoDB**, **Redis**, **RabbitMQ**,
-**Docker**, **Kubernetes**, **AWS (EC2, S3, ECS, EKS)**, **WebSocket**, and **GitHub Actions** for CI/CD.
+I'm a **Software Engineer** with 5+ years of experience building **scalable full-stack and backend systems** — REST APIs, authentication, real-time pipelines, and data-driven platforms — with a strong focus on **performance, reliability, and architecture**.
+
+I've worked across diverse industries — **fintech**, **manufacturing SaaS**, and **ed-tech** — from React UIs to backend services and cloud deployments.
 
 ---
 
