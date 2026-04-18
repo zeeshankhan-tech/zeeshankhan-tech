@@ -6,7 +6,7 @@ I've worked across diverse industries — **fintech**, **manufacturing SaaS**, a
 ---
 
 🔭 **I'm currently working on:**
-- Building and scaling a modular monolith fintech platform
+- Building and scaling a microservices fintech platform
 - Designing high-performance APIs for payments, wallet management, and financial reporting
 - Implementing event-driven architectures and real-time data pipelines
 
