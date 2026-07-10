@@ -123,6 +123,7 @@ I've worked across multiple industries including **FinTech**, **Manufacturing Sa
 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Server-Sent Events](https://img.shields.io/badge/Server--Sent_Events-SSE-blue?style=for-the-badge)
 
 ---
 
