@@ -144,26 +144,20 @@ I've worked across multiple industries including **FinTech**, **Manufacturing Sa
 
 ## AI & GenAI
 
+## AI & GenAI
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E40C9?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-5B21B6?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-5B21B6?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blue?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-2563EB?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F97316?style=for-the-badge)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-14B8A6?style=for-the-badge)
-![Function Calling](https://img.shields.io/badge/Function_Calling-06B6D4?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-10B981?style=for-the-badge)
-![Vector Database](https://img.shields.io/badge/Vector_Database-0EA5E9?style=for-the-badge)
+![Model Context Protocol](https://img.shields.io/badge/Model_Context_Protocol-MCP-5B21B6?style=for-the-badge)
 ![PGVector](https://img.shields.io/badge/PGVector-336791?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge)
+
+
 
 ---
 
