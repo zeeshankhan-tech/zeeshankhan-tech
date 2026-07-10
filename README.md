@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm **Muhammad Zeeshan Khan**, a **Software Engineer** with **5+ years of experience** building scalable **backend systems, microservices, distributed applications, AI-powered platforms, and full-stack solutions**.
+I'm a **Software Engineer** with **5+ years of experience** building scalable **backend systems, microservices, distributed applications, AI-powered platforms, and full-stack solutions**.
 
 I specialize in designing **production-grade REST APIs**, **event-driven architectures**, **cloud-native applications**, and **high-performance systems** with a strong focus on **scalability, reliability, security, maintainability, and clean architecture**.
 
