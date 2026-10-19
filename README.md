@@ -144,8 +144,6 @@ I've worked across multiple industries including **FinTech**, **Manufacturing Sa
 
 ## AI & GenAI
 
-## AI & GenAI
-
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
